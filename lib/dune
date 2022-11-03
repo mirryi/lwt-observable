@@ -1,0 +1,4 @@
+(library
+ (name lwt_observable)
+ (public_name lwt-observable)
+ (libraries lwt lwt-dllist))
